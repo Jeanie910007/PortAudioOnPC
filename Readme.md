@@ -4,7 +4,8 @@
 ## usage
 
 ---
-
+透過USB麥克風將輸入訊號傳入PC後，透過 PortAudio 擷取訊號並進行演算法計算
+![portaudio process](https://user-images.githubusercontent.com/48181705/153815539-b62740e3-64e8-4f65-921f-12bf8e421160.png)
 
 
 ## Reference
