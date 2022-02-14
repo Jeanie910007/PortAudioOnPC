@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "stdlib.h": "c",
+        "xiosbase": "c",
+        "xlocale": "c",
+        "xmemory": "c",
+        "math.h": "c",
+        "main.h": "c",
+        "portaudio.h": "c"
+    }
+}

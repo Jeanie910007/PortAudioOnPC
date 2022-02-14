@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\portaudio_demo.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\portaudio_demo.dir/objects.a @CMakeFiles\portaudio_demo.dir\objects1.rsp
+C:\msys64\mingw64\bin\x86_64-w64-mingw32-gcc.exe -g -Wl,--whole-archive CMakeFiles\portaudio_demo.dir/objects.a -Wl,--no-whole-archive -o portaudio_demo.exe -Wl,--out-implib,libportaudio_demo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\portaudio_demo.dir\linklibs.rsp

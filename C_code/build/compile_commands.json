@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/USB_Audio/PortAudioOnPC/C_code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe   -g -o CMakeFiles\\portaudio_demo.dir\\main.c.obj -c D:\\USB_Audio\\PortAudioOnPC\\C_code\\main.c",
+  "file": "D:/USB_Audio/PortAudioOnPC/C_code/main.c"
+}
+]
